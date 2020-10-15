@@ -6,6 +6,7 @@ You can also read some blogposts from me, either on [dev.to](https://dev.to/fham
 
 ### 📝 Articles from [dev.to](https://dev.to/fhammerschmidt)
 
+* Oct 14 2020 [Nicer APIs with ReScript](https://dev.to/fhammerschmidt/nicer-apis-with-rescript-361) 
 * Dec 06 2019 [What's new in BuckleScript 7?](https://dev.to/fhammerschmidt/what-s-new-in-bucklescript-7-1bf4) 
 * Oct 26 2019 [Reason(React) Best Practices - Part 3](https://dev.to/fhammerschmidt/reason-react-best-practices-part-3-3bm2) 
 * Sep 30 2019 [Reason(React) Best Practices - Part 2](https://dev.to/fhammerschmidt/reason-react-best-practices-part-2-2opc) 
