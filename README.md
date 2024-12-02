@@ -2,9 +2,9 @@ Hello there!
 
 My name is Florian, and I am writing ReScript and React (Native) for a living @ [cca_io](https://www.cca.io/)!
 
-You can also read some blogposts from me, either on [dev.to](https://dev.to/fhammerschmidt) or directly on [GitHub](https://github.com/fhammerschmidt/blogposts), if you prefer that.
+You can also read some blogposts from me on https://fham.dev/blog
 
-### 📝 Articles from [dev.to](https://dev.to/fhammerschmidt)
+### 📝 Older Articles from [dev.to](https://dev.to/fhammerschmidt)
 
 * Oct 14 2020 [Nicer APIs with ReScript](https://dev.to/fhammerschmidt/nicer-apis-with-rescript-361) 
 * Dec 06 2019 [What's new in BuckleScript 7?](https://dev.to/fhammerschmidt/what-s-new-in-bucklescript-7-1bf4) 
